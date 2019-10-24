@@ -1,24 +1,24 @@
-# README
+<h1> THP 24/10/2019 : Projet Airbnb for dogs <h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h2> 1. Pour afficher le contenu de la table doctors : </h2>
 
-Things you may want to cover:
+> rails c
+>
+> tp Dog.all
+>
+> tp DogSitter.all
+>
+> tp City.all
+>
+> tp Stroll.all
+>
+> tp DogInscription.all
+>
+> tp DogSitterInscription.all
+> 
 
-* Ruby version
+<h2> 1. Pour afficher le contenu de la table doctors : </h2>
 
-* System dependencies
+<h2> 1. Pour afficher le contenu de la table doctors : </h2>
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h2> 1. Pour afficher le contenu de la table doctors : </h2>
